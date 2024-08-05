@@ -1,5 +1,9 @@
 # Python API Automation Framework
 
+Hybrid Cusomter API Automation Framework include the proper folder structure
+
+![Screenshot 2024-08-05 at 08 18 38](https://github.com/user-attachments/assets/3c7d5fe5-207a-42e7-84fe-f4d53354d987)
+
 ### Tech Stack
 - Python 3.12
 - Requests - HTTP Requests
@@ -8,8 +12,6 @@
 - Test Data - CSV, Excel, JSON,  Faker
 - Advance API Testcase - jsonschema
 - Parallel Execution - x distribute (xdist)
-
-![Screenshot 2024-08-05 at 08 18 38](https://github.com/user-attachments/assets/3c7d5fe5-207a-42e7-84fe-f4d53354d987)
 
 ### Allure Report
 
