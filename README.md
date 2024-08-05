@@ -9,6 +9,13 @@
 - Advance API Testcase - jsonschema
 - Parallel Execution - x distribute (xdist)
 
+![Screenshot 2024-08-05 at 08 18 38](https://github.com/user-attachments/assets/3c7d5fe5-207a-42e7-84fe-f4d53354d987)
+
+### Allure Report
+
+![Screenshot 2024-08-05 at 08 19 43](https://github.com/user-attachments/assets/da1ee5e1-81ef-4317-a0ba-d5788d779657)
+
+
 ### How to Install Packages
 
 ``` pip install requests pytest pytest-html faker allure-pytest jsonschema```
